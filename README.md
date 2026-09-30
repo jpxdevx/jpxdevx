@@ -27,6 +27,6 @@ Email Me 👉 ✉️ **johnpaulfernandes02@gmail.com** For Collaboration/Project
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=fernandesnaycaden-debug&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=fernandesnaycaden-debug&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernandesnaycaden-debug&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=jpxdevx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jpxdevx&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jpxedvx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
